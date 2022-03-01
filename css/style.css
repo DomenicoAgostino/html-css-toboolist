@@ -27,14 +27,16 @@ div.logo {
 }
 
 .rectangle {
-  width: 800px;
+  width: 815px;
   height: 500px;
   background-color: white;
+  padding: 15px;
+  padding-left: 40px;
 
 }
 
 .container {
-  padding: 121px 500px;
+  padding: 131px 600px;
   margin-right:6px;
 }
 
@@ -42,11 +44,10 @@ div.logo {
   background-color: rgb(71, 173, 241);
   color: white;
   margin-right: 10px;
-  padding: 20px 20px;
   height: 35px;
   width: 90px;
-  border: 10px;
-
+  border-radius: 10px;
+     }
 
 
   /* main */
