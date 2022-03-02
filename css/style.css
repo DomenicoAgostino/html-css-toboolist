@@ -1,71 +1,17 @@
 
  /* General */
-*{
+ *{
   margin: 0;
   padding: 0;
   box-sizing: 0;
 }
 
-  /* header */
-
-body {
-  background-color: rgb(246, 248, 249);
-}
-
-div.logo {
-  background-color: rgb(255, 255, 255);
-  padding: 10px;
+/* header */
 
 
-  
-}
-
-#name {
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  font-size: 50px;
-  
-}
-
-.rectangle {
-  width: 815px;
-  height: 30px;
-  background-color: white;
-  padding: 15px;
-  margin: 5px;
-
-}
-
-.container {
-  padding: 131px 400px;
-  margin-right: 5px;
-}
-
-#buttontask {
-  background-color: rgb(71, 173, 241);
-  color: white;
-  margin-right: 5px;
-  height: 35px;
-  width: 90px;
-  border-radius: 10px;
-      }
-
-#add {
-  background-color: white;
-  color: rgb(209, 214, 218);
-  height: 35px;
-  width: 90px;
 
 
-}
-
-.write {
-  width: 815px;
-  height: 500px;
-  background-color: white;
-  padding: 15px;
-  padding-left: px;
-
-}
 
 
-  /* main */
+
+/* main */
