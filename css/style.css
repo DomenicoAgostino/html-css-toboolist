@@ -28,26 +28,44 @@ div.logo {
 
 .rectangle {
   width: 815px;
-  height: 500px;
+  height: 30px;
   background-color: white;
   padding: 15px;
-  padding-left: 40px;
+  margin: 5px;
 
 }
 
 .container {
-  padding: 131px 600px;
-  margin-right:6px;
+  padding: 131px 400px;
+  margin-right: 5px;
 }
 
 #buttontask {
   background-color: rgb(71, 173, 241);
   color: white;
-  margin-right: 10px;
+  margin-right: 5px;
   height: 35px;
   width: 90px;
   border-radius: 10px;
-     }
+      }
+
+#add {
+  background-color: white;
+  color: rgb(209, 214, 218);
+  height: 35px;
+  width: 90px;
+
+
+}
+
+.write {
+  width: 815px;
+  height: 500px;
+  background-color: white;
+  padding: 15px;
+  padding-left: px;
+
+}
 
 
   /* main */
